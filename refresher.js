@@ -2,7 +2,7 @@ console.log("Hi");
 
 var firstName = "Martin";
 var lastName = "Wisor";
-var fullName = `${firstName + lastName}`;
+var fullName = `${firstName + " " + lastName}`;
 console.log(fullName);
 let population = 670000;
 console.log(population);
